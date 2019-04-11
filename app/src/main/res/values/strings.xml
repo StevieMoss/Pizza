@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="radio_thin">ThinCrispy</string>
+    <string name="btn_display">Choose</string>
+    <string name="radio_stuffed">StuffedCrust</string>
+    <string name="baseRequest">Choice of crust</string>
+    <string name="base1String">Stuffed Crust</string>
+    <string name="base2String">Thin and Crispy</string>
+    <string name="choiceRequest">Toppings</string>
+    <string name="topping1">Mushrooms</string>
+    <string name="topping2">Sweetcorn</string>
+    <string name="topping3">Onions</string>
+    <string name="topping4">Peppers</string>
+    <string name="extraRequest">extra request</string>
+    <string name="emailRequest">email request</string>
+    <string name="submitRequest">submit request</string>
+
+</resources>
